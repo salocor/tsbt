@@ -1,5 +1,4 @@
 +++
-date = '2026-09-26T21:26:13+09:00'
 draft = false
 title = 'About'
 toc = false
