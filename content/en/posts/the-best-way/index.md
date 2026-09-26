@@ -2,6 +2,7 @@
 date = '2026-09-26T21:03:24+09:00'
 draft = false
 title = 'The best way to see Japan'
+toc = false
 +++
 
 Japan is a unique country with a deep culture. Often when exploring Japan, the standard travel experience is to visit Tokyo, Osaka, Kyoto, and sometimes another stop on the Shinkansen. While all are great cities with incredible cultural significance, much is missed when simply visiting the highlights. Sometimes to have a more complete experience, you must take the long route and stop at less visited locations.
@@ -16,6 +17,6 @@ Recently when riding Japan's bullet train, the Shinkansen, I find myself again l
 
 To satisfy my curiousity, I decided to start taking the long route and visit the stations less visited. Taking local trains allows one to stop whenever and experience a more complete Japan, even though it may require a considerably longer travel time. By doing so, I have learned about local cultures, made friends, and enjoyed local cuisine in a way I wouldn't be able to if I had stayed on the path most visited.
 
-In the coming months, I will share short posts about the adventures to be had by stopping at the stations between.
+In the coming months, I will share short posts about the adventures to be had by stopping at the stations between, which I believe to be the best way to see Japan.
 
 ![Looking over Hiroshima Bay](sea.jpeg)
