@@ -14,6 +14,6 @@ Recently when riding Japan's bullet train, the Shinkansen, I find myself again l
 
 ## The stations between
 
-To satisfy my curiousity, I decided to start taking the long route and visit the stations less visited. Taking local trains allows one to stop whenver and experience a more complete Japan, even though it may require a considerably longer travel time. By doing so, I have learned about local cultures, made friends, and enjoyed local cuisine in a way I wouldn't be able to if I had stayed on the path most visited.
+To satisfy my curiousity, I decided to start taking the long route and visit the stations less visited. Taking local trains allows one to stop whenever and experience a more complete Japan, even though it may require a considerably longer travel time. By doing so, I have learned about local cultures, made friends, and enjoyed local cuisine in a way I wouldn't be able to if I had stayed on the path most visited.
 
 In the coming months, I will share short posts about the adventures to be had by stopping at the stations between.
