@@ -185,5 +185,9 @@ theme = "hugo-blog-awesome"
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
 [[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/tsbt_"
+
+[[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
