@@ -1,5 +1,5 @@
 +++
-date = '2026-09-27T11:09:29+09:00'
+date = '2026-10-10T11:21:12+09:00'
 draft = false
 title = 'The Long Way Down'
 toc = false
