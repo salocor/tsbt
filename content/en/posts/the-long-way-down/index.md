@@ -5,7 +5,7 @@ title = 'The Long Way Down'
 toc = false
 +++
 
-![Numazu city](numazu.png)
+![Numazu city](numazu.jpg)
 *Looking over Numazu city*
 
 ## To see the lesser seen parts of the country, I take a trip to Fukuoka.
