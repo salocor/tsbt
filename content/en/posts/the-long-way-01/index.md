@@ -117,6 +117,23 @@ Next, I made my way to Himeji. By the time I got to Himeji, it was already after
 | Kobe line rapid | Akashi    | 18:10 | Himeji  | 18:35 |
 | Sanyo           | Himeji    | 20:38 | Aioi    | 20:59 |
 
+### Links to visited locations
+
+[Numazu Post Observatory Water Gate](https://www.google.com/maps/search/?api=1&query=沼津港大型展望水門+びゅうお)
+
+[鮪小屋 本店 (Magurokoya honten)](https://www.google.com/maps/search/?api=1&query=鮪小屋+本店+沼津)
+
+[Fuka Cafe](https://www.google.com/maps/place/Fuka/@34.7637401,137.3791279,15.11z/data=!4m6!3m5!1s0x6004d20ea63bf8e1:0xf52104abe79d1b3f!8m2!3d34.7636366!4d137.38509!16s%2Fg%2F1tk_p6x2)
+
+[Nagahama Castle](https://www.google.com/maps/search/?api=1&query=Nagahama+Castle+History+Museum+Nagahama+Shiga)
+
+[Hikone Castle](https://www.google.com/maps/search/?api=1&query=Hikone+Castle+Hikone+Shiga)
+
+[Akashi Maiko Marine Promenade](https://www.google.com/maps/search/?api=1&query=Maiko+Marine+Promenade+Kobe+Hyogo)
+
+[Akashi Castle Ruins](https://www.google.com/maps/search/?api=1&query=明石城跡)
+
+[Akashiyaki Go](https://www.google.com/maps/search/?api=1&query=Akashiyaki+Go+Akashi+Hyogo)
 
 
 **Next week, I travel to Okayama, Onomichi, Itosaki, Hiroshima, and Iwakuni.**
