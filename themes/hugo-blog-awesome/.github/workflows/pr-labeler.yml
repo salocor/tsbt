@@ -2,7 +2,7 @@ name: "Pull Request auto-label"
 
 on:
   # Including 'on push' trigger, so that PRs touching the same files as push are checked for conflicts.
-  # PR can be rebased (against main brnach) to resolve conflicts.
+  # PR can be rebased (against main branch) to resolve conflicts.
   push:
     branches: [ main ]
   pull_request_target:

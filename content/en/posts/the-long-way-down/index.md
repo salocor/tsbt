@@ -22,7 +22,7 @@ This trip would take place over six days and would require around 4-5 hours of t
 
 ## Purpose
 
-I am writing this with two resons in mind. One, for those who are curious about the lesser known places in Japan and would like to follow me on an adventure and two, as a guide for those who may want to do a similar trip in the future. On each post, I'll include some tips and tricks to know if you want to do a similar trip yourself and hopefully you won't repeat the same mistakes I made.
+I am writing this with two reasons in mind. One, for those who are curious about the lesser known places in Japan and would like to follow me on an adventure and two, as a guide for those who may want to do a similar trip in the future. On each post, I'll include some tips and tricks to know if you want to do a similar trip yourself and hopefully you won't repeat the same mistakes I made.
 
 This style of travel is not for everyone. It requires long hours, early mornings, late nights, and an much flexibility. If you are able to push through though, I guarantee you will experience Japan like no other.
 
@@ -42,7 +42,7 @@ While Japan's trains are world famous for being punctual and reliable, such a lo
 
 ### Google Maps
 
-The go-to for information on almost any location. I highly recommend using Google Maps to find activities, points of interest, and resturaunts along the route, however I would recommend against using Google Maps for train schedules. While it has up to date information on train lines and statuses, it lacks many good features for planning routes. I would use Jorudan for finding train routes.
+The go-to for information on almost any location. I highly recommend using Google Maps to find activities, points of interest, and restaurants along the route, however I would recommend against using Google Maps for train schedules. While it has up to date information on train lines and statuses, it lacks many good features for planning routes. I would use Jorudan for finding train routes.
 
 ### JR Ticket Websites (e5489/えきねっと）
 
