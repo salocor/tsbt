@@ -1,0 +1,8 @@
+repos:
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1   # run `pre-commit autoupdate` to get the latest
+    hooks:
+      - id: codespell
+        args: ["--ignore-words=.codespell-ignore.txt"]
+        # optional: skip files
+        exclude: "(package-lock\\.json|\\.svg)$"
